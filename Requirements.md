@@ -6,7 +6,13 @@ This project is about Parking Management System. This system provides vacant par
 
 **Research**
 
-![History of PMS](Aspose.Words.c38c70e4-b3d9-46e1-b40e-ca444e964628.001.jpeg)
+1. • A 2006 study by the Central Road Research Institute in New Delhi estimated that of the 8,760 hours in a year, an average car's steering time is only 400 hours. This means it is driven for only about an hour a day. 
+1. • Each car needs/ occupies an average of three different parking locations in the city every day. The land required to park a car is approx. 23 sq. m, which includes the space occupied by the vehicle as well as the minimum space needed to move it into and out of the space. This is called equivalent car space, or ECS. 
+1. • Therefore, each car effectively consumes 69 sq. m. of land every day, most of which is public land. 
+1. • On the other hand, a very poor family (EWS) in Delhi gets a plot or apartment of 25 sq. m. 
+1. • Delhi, in other words, allots more public land per day for parking cars than it does to house its poor. And all this for only 20 per cent of city's population which have a family car, based on figures of the 2008 Household Survey by the Department of Transport, GNCTD. 1 Source: Centre for Science and Environment courtesy India Environmental Portal Parking Policy as a Travel Demand Management Strategy DRAFT October 2010
+
+increases. Ultimately, this leads to lowered densities within cities to a point where transit becomes inefficient. Street life and public spaces cease to function.”
 
 Car Parking Management systems were developed in the early 20th century in response to the need for alleviating the search for vacancy in the parking area.
 
@@ -28,13 +34,14 @@ Car Parking Management systems were developed in the early 20th century in respo
 
 **SWOT Analysis:**
 
-![SWOT Analysis](Aspose.Words.c38c70e4-b3d9-46e1-b40e-ca444e964628.001.jpeg)
+|<p>**Strengths (internal)**</p><p>·       Unique service app</p><p>·       Can be scaled up nationally and globally</p><p>·       Innovative app that will make finding a parking spot quick, cheap and easy</p><p>·       Has no competitors in the locality/community/city.</p><p>·       Relatively cheap service app</p><p>·       Trial version will allow users to know if they want to use the service.</p>|<p>**Weaknesses (internal)**</p><p>·       Inexperienced management and employees</p><p>·       High cost start-up and promotion</p><p>·       High chance of malfunctions, glitches or bugs</p><p>·       Not everyone has a smartphone or an android capable of using the service.</p>|
+| :- | :- |
+|<p>**Opportunities (external)**</p><p>·       Expand nationally and internationally</p><p>·       Implement social media to help promote the app</p><p>·       “In App” advertising (major revenue source)</p><p>·       Establish a good and reliable service app and improve it as much as possible</p><p>·       Population growth leading to more cars</p>|<p>**Threats (external)**</p><p>·       Limited financial funding for start-up costs and launch of app</p><p>·       New competitors are likely to provide same service in other cities</p><p>·       Government and ACCC regulations</p><p>·       Lobbying groups influencing consumer perceptions</p>|
+
 
 
 
 **4 W's & 1 H:**
-
-![4w 1h](Aspose.Words.c38c70e4-b3d9-46e1-b40e-ca444e964628.001.jpeg)
 
 **WHO:** To people who are searching for parking space.
 
