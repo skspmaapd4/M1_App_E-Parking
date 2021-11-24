@@ -1,2 +1,2 @@
-# M1_App_E-School_Billing
-A software that performs billing or accounting operations.
+# M1_App_E-Parking
+E-Parking is smart parking system which helps in alleviating and solving the common problem of allocating parking space.
